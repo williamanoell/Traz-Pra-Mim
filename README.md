@@ -7,3 +7,6 @@ possuem como origem a cidade de onde os produtos são fabricados.
 Diferente de se sujeitar a preços altos de frete de transportadoras o nosso produto 
 conecta o comprador com o viajante antes da viagem acontecer, permitindo 
 preços menores.
+### Features Implementadas
+<ol> <li> Tela Home <li>
+  <li> Pesquisa e Resultados da Pesquisa <li> <ol>
