@@ -1,0 +1,29 @@
+body, html{
+    background-image: url("Background.png");
+}
+
+h2{
+    text-align: center;
+    font-family: "courier";
+}
+
+.button {
+    margin-right: 200px;
+    float: right;
+    height: 34px;
+    border-radius: 0px 5px 5px 0px;
+    cursor:pointer;
+    transition: opacity 0.5s;
+}
+
+.input {
+    overflow: hidden;
+    padding: 0 3px 0 0;
+}
+
+.input input {
+    width: 100%;
+    height: 28px;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 200px;
+}
