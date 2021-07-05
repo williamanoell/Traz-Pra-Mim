@@ -16,7 +16,7 @@ preços menores.
 
 ### Tecnologias Utilizadas
 <ul> 
-<li> PHP </li>
+<li> PHP juntamente com PHPMyadmin </li>
 <li> HTML </li>
 <li> CSS </li> 
 </ul>
