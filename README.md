@@ -1,4 +1,4 @@
-# Traz-Pra-Mim
+# Traz Pra Mim
 ### Visão do Produto
 Um produto digital voltado para pessoas que desejam adquirir produtos típicos de 
 outras cidades. 
